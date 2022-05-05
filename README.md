@@ -1,9 +1,10 @@
 ### Olá!Sou Mário César👋
 
+- 😎 Expert javascript programming.
+- 🔭 Hoje trabalho como programador front-end, mobile e back-end.
+- 👉 Prencipais tecnologias - React.js, Next.js, Node.js, Nest.js, express, GraphQL, Apollo_Client e Apollo_Server
 
-
-- 🔭 Hoje trabalho com front-end e mobile
-- 🌱 Estudo elixir para back-end
+- 🌱 Estudo elixir para back-end🚀🚀 never stop learning💜.
 
 <div>
   <a href="https://github.com/mariocesar33">
