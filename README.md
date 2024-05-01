@@ -2,7 +2,7 @@
 
 - 😎 Expert javascript programming.
 - 🔭 Hoje trabalho como programador front-end, mobile e back-end.
-- 👉 Prencipais tecnologias - React.js, Next.js, Node.js, Nest.js, fastify, express, Java, GraphQL, Apollo_Client e Apollo_Server
+- 👉 Prencipais tecnologias - React.js, Next.js, Node.js, Nest.js, Fastify, Express, Java, GraphQL, Apollo_Client e Apollo_Server
 
 - 🌱 Estudo Java para back-end🚀🚀 never stop learning💜.
 
